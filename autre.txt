@@ -5,3 +5,7 @@ modification 2
 modif 1 depuis anasFirstBranch
 modif 2 depuis anasFirstBranch
 
+debut conflit
+creation conflit cote anasFirstBranch
+fin conflit
+
