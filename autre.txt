@@ -15,3 +15,9 @@ creation conflit cote anasFirstBranch : modif
 >>>>>>> anasFirstBranch
 fin conflit
 
+debut apres "git stash"
+xxx
+xxx
+xxx
+fin apres "git stash"
+
