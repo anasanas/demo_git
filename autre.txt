@@ -31,3 +31,4 @@ apres utilisation de "git stash pop" et resolution des conflits
 test de git ssh keys
 
 second test de stash : A majuscule (apres call de stash)
+b miuscule : apres call de git stash pop
