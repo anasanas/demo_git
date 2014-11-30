@@ -8,6 +8,10 @@ modif 1 depuis anasFirstBranch
 modif 2 depuis anasFirstBranch
 
 debut conflit
+<<<<<<< HEAD
 creation conflit cote master 
+=======
+creation conflit cote anasFirstBranch : modif
+>>>>>>> anasFirstBranch
 fin conflit
 
