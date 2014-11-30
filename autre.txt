@@ -30,6 +30,6 @@ apres utilisation de "git stash pop" et resolution des conflits
 
 test de git ssh keys
 
-second test de splash : a miniscule
+second test de stash : A majuscule
 
 
