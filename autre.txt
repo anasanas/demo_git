@@ -28,3 +28,5 @@ debut utilisation "git stash" command
 
 apres utilisation de "git stash pop" et resolution des conflits
 
+test de git ssh keys
+
